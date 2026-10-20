@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 📂 仓库导航
 - sql-practice：SQL刷题练习记录
 - data-analysis-demo：完整数据分析练习项目
-💡 现阶段慢慢打基础，持续动手练习，目标业务类数据分析/数据助力岗位
+💡 现阶段慢慢打基础，持续动手练习，目标业务类数据分析
