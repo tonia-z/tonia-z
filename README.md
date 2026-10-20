@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋 I'm tonia-zh666
+### Hi 👋 I'm tonia-z
 🎓 大数据管理与应用 | 大三在读
 📌 学习方向：SQL、Excel、业务数据分析、数据可视化
 📂 仓库导航
